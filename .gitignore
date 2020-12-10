@@ -47,3 +47,12 @@ buck-out/
 dist
 .ionide/
 *.tgz
+
+.circleci/
+.dockerignore
+.editorconfig
+.eslintignore
+.eslintrc
+.gitattributes
+.github/
+.prettierrc
