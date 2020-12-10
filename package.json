@@ -1,6 +1,6 @@
 {
   "name": "react-native-svg-url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Yet another react-native package",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
